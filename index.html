@@ -358,7 +358,7 @@
               <div class="col-lg-12">
                 <div class="modal-body">
                   <!-- Project details-->
-                  <h4 class="text-uppercase mb-4">Web Kontak dan Cari Kata Baku</h4>
+                  <h4 class="text-uppercase mb-4">Chatbot FAQ Helpdesk</h4>
                   <div id="carousel4" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                       <div class="carousel-item active">
